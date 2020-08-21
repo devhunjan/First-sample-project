@@ -2,4 +2,8 @@ devendra singh
 Dilpreeet kaur
 Swarn Kaur
 Ratan ksingh
+<<<<<<< HEAD
 cricket
+=======
+ganguly
+>>>>>>> secondry
